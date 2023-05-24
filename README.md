@@ -1,6 +1,6 @@
 # Majd Jalab 
 
-![](https://komarev.com/ghpvc/?majdjalab&color=brightgreen&style=flat-square&label=VISITORS)
+![](https://komarev.com/ghpvc/?username=majdjalab&color=brightgreen&style=flat-square&label=VISITORS)
 
 ## Software Developer 💻
 
