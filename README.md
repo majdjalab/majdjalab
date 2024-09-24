@@ -4,7 +4,7 @@
 
 ## Software Developer 💻
 
-> With over 3 years of experience, I specialize in building scalable, high-performance web applications. My expertise includes JavaScript (Vue, React.js, React Native), PHP, and Laravel. I’ve developed secure backend solutions and built complex systems, including a ticket management platform with advanced features. I’m passionate about leveraging modern technologies to create seamless, efficient web experiences.
+> I am a Programmer With over 3 years of experience, I specialize in building scalable, high-performance web applications. My expertise includes JavaScript (Vue, React.js, React Native), PHP, and Laravel. I’ve developed secure backend solutions and built complex systems, including a ticket management platform with advanced features. I’m passionate about leveraging modern technologies to create seamless, efficient web experiences.
 <br>
 
 #  Programming Languages: 
